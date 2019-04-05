@@ -4,7 +4,7 @@
 ## How to Install
 - Install [ror2-modloader](https://github.com/meepen/ror2-modloader)
 - Place this in the Mods folder
-- Done! Run sv_maxplayers 16 in console to change to 16 players
+- Done!
 
 ## How to Build
 - Install [ror2-modloader](https://github.com/meepen/ror2-modloader)
