@@ -10,7 +10,7 @@ namespace HuntressSprint
 {
     public class HuntressSprint
     {
-        [ModEntry("Huntress Sprint", "1.0.0", "Meepen")]
+        [ModEntry("Huntress Sprint", "1.1.0", "Meepen")]
         public static void Init()
         {
             var harmony = HarmonyInstance.Create("dev.meepen.huntress-sprint");
