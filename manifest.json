@@ -2,7 +2,7 @@
     "name": "Huntress_Sprint_Mod",
     "description": "A mod to let Huntress sprint sideways, and sorta backwards. 270 degrees!",
     "website_url": "https://github.com/meepen/ror2-huntress-sprint-mod",
-    "version_number": "1.1.0",
+    "version_number": "1.1.1",
     "dependencies": [
         "meepen-Meepens_Mod_Loader-0.1.1"
     ]
